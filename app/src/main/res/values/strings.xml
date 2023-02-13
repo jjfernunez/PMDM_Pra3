@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PMDM_Practica3</string>
+    <string name="altaBtn">Alta</string>
+    <string name="wi1Btn">PMDM_Practica3</string>
+    <string name="wi2Btn">PMDM_Practica3</string>
+    <string name="wi3Btn">PMDM_Practica3</string>
+    <string name="wi4Btn">PMDM_Practica3</string>
+    <string name="verBtn">Ver</string>
+    <string name="salirBtn">Salir</string>
 </resources>
