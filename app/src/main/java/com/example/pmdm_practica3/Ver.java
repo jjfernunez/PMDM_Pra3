@@ -7,19 +7,19 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class alta extends AppCompatActivity {
+public class Ver extends AppCompatActivity {
 
     Button main;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_alta);
+        setContentView(R.layout.activity_ver);
 
-        main = (Button) findViewById(R.id.cancelarId);
+        main = (Button) findViewById(R.id.volverVer);
         main.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(alta.this, MainActivity.class);
+                Intent intent = new Intent(Ver.this, MainActivity.class);
                 startActivity(intent);
                 onStop();
             }

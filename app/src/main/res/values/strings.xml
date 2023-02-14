@@ -7,4 +7,10 @@
     <string name="wi4Btn">PMDM_Practica3</string>
     <string name="verBtn">Ver</string>
     <string name="salirBtn">Salir</string>
+    <string name="aceptarBtn">Aceptar</string>
+    <string name="cancelarBtn">Cancelar</string>
+    <string name="emailLabel">Email:</string>
+    <string name="nombreLabel">Nombre</string>
+    <string name="fecnacLabel">Fecha de nacimiento:</string>
+    <string name="volverBtn">Volver</string>
 </resources>
