@@ -13,4 +13,17 @@
     <string name="nombreLabel">Nombre</string>
     <string name="fecnacLabel">Fecha de nacimiento:</string>
     <string name="volverBtn">Volver</string>
+    <string name="estudiante">¿Eres estudiante?</string>
+    <string name="conf">Si</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="otroGenero">Otro</string>
+    <string name="eligeGenero">Elige tu género</string>
+    <string name="pmdm">PMDM</string>
+    <string name="programacion">Programacion</string>
+    <string name="lectura">Literatura</string>
+    <string name="vg">Videojuegos</string>
+    <string name="musica">Musica</string>
+    <string name="interes">¿Cuáles son tus intereses?</string>
+    <string name="cine">Cine</string>
 </resources>
